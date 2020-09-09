@@ -1,1 +1,5 @@
-HELLO WORLD
+PHLAN (Philips Hue Log and Notify) is a project desinged to allow you to log the data from your Philips Hue Bridge to a file or database. This allows you to then trigger events based on motion detection, light level, switch presses, tempature and more. The idea is to allow intergration of the Philips Hue ecosystem with all kinds of other systems such as security camearas and other IoT (internet of things) devices.
+
+The Hue motion sensors are cabable of having the sensitivty cranked up very high! This allows you to detect rodents at night in the pantry, attic or basement. Want to get a push notification about that! Maybe you would like to use the tempature data from the motion sensor to control a heater / air conditioning unit or other enviromental system like an motorised window. Maybe you want to put a motion sensor outside and recive a push notifiation when you get mail? Or maybe you would like to graph the tempature over a day or a year? Send an email, push notification, or txt message off to your neighbor (if they are home) when a motion sensor is triggered and you are not at home? If any of that sounds interesting, then this is the project for you. 
+
+This project helps your imagination be the limit of what is possible with a Philips Hue system. 
